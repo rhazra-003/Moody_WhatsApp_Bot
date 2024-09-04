@@ -11,5 +11,5 @@ pytz==2019.3
 requests==2.31.0
 six==1.13.0
 twilio==6.33.1
-urllib3==1.26.5
+urllib3==1.26.19
 Werkzeug==3.0.3
